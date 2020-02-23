@@ -1,5 +1,5 @@
-var n = 50;
-var maxVel = 5;
+var n = 80;
+var maxVel = 8;
 var radius = 20;
 var diameter = radius * 2;
 var balls;
